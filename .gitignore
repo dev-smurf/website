@@ -1,0 +1,7 @@
+# .gitgnore file
+
+# Ignore CSS files
+*.css
+
+#Ignore source map files
+*.map
